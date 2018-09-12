@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "460751199615",
+    "firebase_url": "https://login-e59c4.firebaseio.com",
+    "project_id": "login-e59c4",
+    "storage_bucket": "login-e59c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460751199615:android:2209a742ed96f88d",
+        "android_client_info": {
+          "package_name": "com.perumaltt.quizfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460751199615-0u4rr7ihra6ncvo58c1ipqbeuo60l378.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perumaltt.quizfirebase",
+            "certificate_hash": "7f9dde04c42e911449217f2092ee6db31889bc84"
+          }
+        },
+        {
+          "client_id": "460751199615-gun6bspnssu2erateavegorrpa4fl71v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscaiNlJFzgIrU3csPH4DqQKrr9Xmk66w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460751199615-gun6bspnssu2erateavegorrpa4fl71v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460751199615-n50fcemjeecmh1g2th0j2i8rl8g19pq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deverdie.chitchat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460751199615:android:de3a6c0864b7486f",
+        "android_client_info": {
+          "package_name": "com.perumaltt.quizfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460751199615-o3arkanptk5jrm088mk2n7h16v7nrrct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perumaltt.quizfirebasestorage",
+            "certificate_hash": "7f9dde04c42e911449217f2092ee6db31889bc84"
+          }
+        },
+        {
+          "client_id": "460751199615-gun6bspnssu2erateavegorrpa4fl71v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscaiNlJFzgIrU3csPH4DqQKrr9Xmk66w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460751199615-gun6bspnssu2erateavegorrpa4fl71v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460751199615-n50fcemjeecmh1g2th0j2i8rl8g19pq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deverdie.chitchat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

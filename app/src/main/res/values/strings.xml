@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizFirebaseStorage</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
